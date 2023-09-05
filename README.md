@@ -69,11 +69,11 @@ $  npx playwright show-report
 
 - A video is available per test case, the video can be access by tapping the icon
 
-![Folder-Structure](imgs/trace.PNG)
+![Folder-Structure](imgs/trace.png)
 
 - And by scrolling down inside each test case
 
-![Folder-Structure](imgs/full_trace.PNG)
+![Folder-Structure](imgs/full_trace.png)
 
 ## FAQ
 
